@@ -123,6 +123,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 --- !u!1 &447698832
 GameObject:
 =======
@@ -1712,6 +1713,8 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+=======
+>>>>>>> Stashed changes
 --- !u!1 &1302970888 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 479271117054743301, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
@@ -1940,8 +1943,11 @@ Transform:
   interpolacao: 12
   _spriteRenderrer: {fileID: 0}
   CamMoveSpeed: 5
+<<<<<<< Updated upstream
 =======
 >>>>>>> parent of a0736c0 (update)
+=======
+>>>>>>> Stashed changes
 --- !u!1001 &759725731459752179
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2084,9 +2090,12 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
   - {fileID: 759725731459752179}
 >>>>>>> Stashed changes
 =======
