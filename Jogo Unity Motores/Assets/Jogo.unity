@@ -122,13 +122,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
->>>>>>> parent of c74ddc7 (Update 2)
 --- !u!1 &447698832
 GameObject:
   m_ObjectHideFlags: 0
@@ -300,7 +293,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &678004621
 GameObject:
   m_ObjectHideFlags: 0
@@ -466,8 +458,6 @@ CapsuleCollider2D:
   m_Offset: {x: 0.42873213, y: 0.17890172}
   m_Size: {x: 3.0725358, y: 5.9821944}
   m_Direction: 0
-=======
->>>>>>> parent of a0736c0 (update)
 --- !u!1 &678788259
 GameObject:
   m_ObjectHideFlags: 0
@@ -483,7 +473,7 @@ GameObject:
   - component: {fileID: 678788261}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Untagged
+  m_TagString: chao
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1693,79 +1683,6 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
---- !u!1 &1302970888 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 479271117054743301, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-  m_PrefabInstance: {fileID: 759725731459752179}
-  m_PrefabAsset: {fileID: 0}
---- !u!70 &1302970891
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1302970888}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.0042515653, y: 0.034251116}
-  m_Size: {x: 2.1621263, y: 2.8423202}
-  m_Direction: 0
---- !u!50 &1302970892
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1302970888}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 4
 --- !u!1 &1722843814
 GameObject:
   m_ObjectHideFlags: 0
@@ -1856,7 +1773,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 678004626}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2137145033
 GameObject:
@@ -1903,114 +1820,6 @@ Transform:
   - {fileID: 678788260}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  m_GameObject: {fileID: 1342705816}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ace1aae4d9f04744c9b26f9510bca429, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _alvo1: {fileID: 0}
-  _alvo2: {fileID: 0}
-  interpolacao: 12
-  _spriteRenderrer: {fileID: 0}
-  CamMoveSpeed: 5
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
->>>>>>> parent of a0736c0 (update)
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
---- !u!1001 &759725731459752179
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 479271117054743301, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_Name
-      value: png-clipart-shovel-knight-gif-pixel-art-sprite-knight-game-maker-thumbnail
-        (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 479271117054743301, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -5.04
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.39
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
-      objectReference: {fileID: 0}
-    - target: {fileID: 8739824178790471274, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-<<<<<<< HEAD
-    m_RemovedGameObjects: []
-=======
-    m_RemovedGameObjects:
-    - {fileID: 8213942056208506580, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
->>>>>>> parent of a0736c0 (update)
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 479271117054743301, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1302970892}
-    - targetCorrespondingSourceObject: {fileID: 479271117054743301, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1302970891}
-<<<<<<< HEAD
-    - targetCorrespondingSourceObject: {fileID: 8213942056208506580, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1342705820}
-  m_SourcePrefab: {fileID: 100100000, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
->>>>>>> Stashed changes
-=======
-  m_SourcePrefab: {fileID: 100100000, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
->>>>>>> parent of a0736c0 (update)
-=======
->>>>>>> parent of c74ddc7 (Update 2)
 --- !u!1001 &6664992769592541174
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2019,6 +1828,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1006100613516234639, guid: e451f00e405357f4c877835889420f26, type: 3}
+      propertyPath: m_Size.x
+      value: 3.9687917
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006100613516234639, guid: e451f00e405357f4c877835889420f26, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.14760005
+      objectReference: {fileID: 0}
     - target: {fileID: 6897456353185889817, guid: e451f00e405357f4c877835889420f26, type: 3}
       propertyPath: m_Name
       value: pixel-art-animated-film-ghost-png-favpng-zBL0g6jyeurgLc39z2PEiBxN7
@@ -2072,27 +1889,7 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-  - {fileID: 759725731459752179}
->>>>>>> Stashed changes
-=======
-  - {fileID: 759725731459752179}
->>>>>>> parent of a0736c0 (update)
-=======
->>>>>>> parent of c74ddc7 (Update 2)
   - {fileID: 6664992769592541174}
   - {fileID: 447698837}
+  - {fileID: 678004626}
   - {fileID: 2137145035}
-  - {fileID: 1722843817}
