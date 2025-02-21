@@ -38,6 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -122,24 +123,17 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of c74ddc7 (Update 2)
 --- !u!1 &447698832
 GameObject:
-=======
---- !u!1 &1302970888 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 479271117054743301, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-  m_PrefabInstance: {fileID: 759725731459752179}
-  m_PrefabAsset: {fileID: 0}
---- !u!70 &1302970891
-CapsuleCollider2D:
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   serializedVersion: 6
   m_Component:
   - component: {fileID: 447698837}
@@ -173,9 +167,6 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 447698832}
-=======
-  m_GameObject: {fileID: 1302970888}
->>>>>>> Stashed changes
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -201,7 +192,6 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-<<<<<<< Updated upstream
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,19 +206,12 @@ BoxCollider2D:
   m_Size: {x: 2.25, y: 2.25}
   m_EdgeRadius: 0
 --- !u!50 &447698835
-=======
-  m_Offset: {x: 0.0042515653, y: 0.034251116}
-  m_Size: {x: 2.1621263, y: 2.8423202}
-  m_Direction: 0
---- !u!50 &1302970892
->>>>>>> Stashed changes
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   m_GameObject: {fileID: 447698832}
   m_BodyType: 2
   m_Simulated: 1
@@ -360,9 +343,6 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 678004621}
-=======
-  m_GameObject: {fileID: 1302970888}
->>>>>>> Stashed changes
   m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
@@ -381,7 +361,6 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-<<<<<<< Updated upstream
   m_Constraints: 4
 --- !u!212 &678004625
 SpriteRenderer:
@@ -1784,21 +1763,10 @@ Rigidbody2D:
   m_Constraints: 4
 --- !u!1 &1722843814
 GameObject:
-=======
-  m_Constraints: 0
---- !u!1 &1342705816 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8213942056208506580, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
-  m_PrefabInstance: {fileID: 759725731459752179}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1342705820
-MonoBehaviour:
->>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< Updated upstream
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1722843817}
@@ -1931,6 +1899,7 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_GameObject: {fileID: 1342705816}
   m_Enabled: 1
@@ -2029,6 +1998,8 @@ PrefabInstance:
 =======
   m_SourcePrefab: {fileID: 100100000, guid: af3470a14bebada4ea06e81cfe239940, type: 3}
 >>>>>>> parent of a0736c0 (update)
+=======
+>>>>>>> parent of c74ddc7 (Update 2)
 --- !u!1001 &6664992769592541174
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2090,6 +2061,7 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -2101,6 +2073,8 @@ SceneRoots:
 =======
   - {fileID: 759725731459752179}
 >>>>>>> parent of a0736c0 (update)
+=======
+>>>>>>> parent of c74ddc7 (Update 2)
   - {fileID: 6664992769592541174}
   - {fileID: 447698837}
   - {fileID: 2137145035}
